@@ -1,0 +1,44 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 400;
+  background-color: #fff;
+}
+
+.container {
+  max-width: 1110px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container-content {
+  max-width: 1140px;
+  padding: 25px 45px;
+  background-color: #F1F1F1;
+  border-radius: 10px;
+}
+
+.container-content--bottom {
+  padding: 25px 45px;
+}
+
+.container-content--bottom .article__item {
+  color: #000;
+}
+
+.container__content:last-child {
+  margin-bottom: 0;
+}
+
+.article__title {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
