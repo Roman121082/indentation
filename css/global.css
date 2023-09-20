@@ -19,11 +19,11 @@ body {
   border-radius: 10px;
 }
 
-.container-content--bottom {
+.container-content {
   padding: 25px 45px;
 }
 
-.container-content--bottom .article__item {
+.container-content .article__item {
   color: #000;
 }
 
@@ -39,6 +39,8 @@ body {
 h1,
 h2,
 h3,
-p {
+p
+{
   margin: 0;
+  padding: 0;
 }
