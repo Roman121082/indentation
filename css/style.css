@@ -7,10 +7,9 @@
 }
 
 ol {
-  margin: 0;
-  padding-left: 25px;
+	margin: 0;
+padding-left: 25px;
 }
-
 .article__title,
 .section__title {
   font-weight: 900;
@@ -21,11 +20,6 @@ ol {
 }
 
 .article__title {
-  margin-bottom: 30px;
-}
-
-.article__list_bottom {
-  padding-left: 0;
   margin-bottom: 30px;
 }
 
@@ -43,8 +37,8 @@ ol {
   margin: 0 auto 30px;
 }
 
-.section__img_margin_no {
-  margin-bottom: 0;
+.section__img_margin_no{
+	 margin-bottom: 0;
 }
 
 .section__img:last-child {
@@ -56,7 +50,6 @@ ol {
   color: #5E5E5E;
   border: 1px solid #000;
   border-top: none;
-  margin-top: -5px;
 }
 
 .content {
@@ -113,3 +106,14 @@ ol {
 .margin__text-left {
   margin-right: 34px;
 }
+
+.article__list {
+  
+
+}
+
+.article__list:last-child{
+  
+
+}
+
